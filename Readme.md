@@ -11,3 +11,17 @@ install those librairies with : npm install :
     "mongoose": "^8.3.3"
 
 - install the database mongodb compass
+
+///
+Todo
+
+Angular, NodeJS, ExpressJS and MongoDB RESTful API Tutorial. See Creating a RESTful API Tutorial post for more details.
+Installation
+
+You just need to install dependencies:
+
+npm install
+
+And start the program
+
+npm start
